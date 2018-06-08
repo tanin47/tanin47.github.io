@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  color: #fff;
+  text-align: center;
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #333);
+  padding: 5px 0px;
+  white-space: nowrap;
+  position: relative;
+
+  > a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .about-me {
+    position: absolute;
+    right: 8px;
+    top: 4px;
+  }
+}
+
+.site-footer {
+  font-size: 11px;
+  text-align: center;
+}

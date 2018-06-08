@@ -1,0 +1,16 @@
+title: Tanin Na Nakorn
+description: "Build beautiful things"
+show_downloads: false
+google_analytics: UA-25864968-1
+theme: jekyll-theme-cayman
+future: true
+
+github:
+  is_project_page: false
+
+excerpt_separator: "<!---excerpt--->"
+
+paginate: 50
+
+plugins:
+  - jekyll-paginate
