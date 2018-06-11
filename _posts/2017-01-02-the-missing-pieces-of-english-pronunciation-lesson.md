@@ -96,6 +96,4 @@ The gist of my problem is that my tongue/jaw muscle is not developed enough to s
 
 Also, I don't understand English culturally. I'd say one will never fully understand others' cultures. An example of a cultural understanding: if we give a totally novel word to different native speakers (from the same culture), it's likely that they will come up the same stress pattern. But I would come up with a different stress pattern.
 
-And, right now, I am mostly upset that I wasn't taught about any of these growing up in Thailand.
-
 Now if you are like me, you believe that our skill is as good as the amount of time practicing that skill. In order to match the fluency of native English speaker, we might need ~20 years of speaking English and being immersed in one culture, you know, kinda like how a 20-year-old native English speaker has spent his/her first 20 years speaking English and being immersed in his/her own culture. So, I don't think my speaking skill will never match the level of a native speaker.
