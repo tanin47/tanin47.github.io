@@ -13,4 +13,7 @@ excerpt_separator: "<!---excerpt--->"
 paginate: 50
 
 plugins:
-  - jekyll-paginate
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
