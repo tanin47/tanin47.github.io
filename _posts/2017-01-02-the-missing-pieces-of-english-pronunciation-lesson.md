@@ -2,6 +2,7 @@
 layout: post
 title: "The missing pieces of English pronunciation lesson"
 date: 2017-01-02
+category: main
 redirect_from: /blogs/348/
 ---
 
