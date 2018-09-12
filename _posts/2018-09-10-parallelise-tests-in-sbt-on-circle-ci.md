@@ -5,7 +5,7 @@ date: 2018-09-10
 category: technical
 ---
 
-In my previous post on [parallelising tests in SBT](https://tanin.nanakorn.com/technical/2018/07/04/parallelise-tests-in-sbt.html), it doesn't work well in practice or, at least, on CircleCI. The main disadvantage is that it doesn't balance the tests by their run time.
+In my previous post on [parallelising tests in SBT](https://tanin.nanakorn.com/technical/2018/07/04/parallelise-tests-in-sbt.html), it doesn't work well in practice or, at least, on CircleCI. The main disadvantage is that it doesn't balance the tests by their run time. Balancing tests by their run time would reduce the total time significantly.
 
 CircleCI offers the command-line tool, named [circleci](https://circleci.com/docs/2.0/parallelism-faster-jobs/), obviously, for splitting tests. One mode of splitting is splitting tests based on how long individual tests take. If `scala_test_classnames` contains a list of test classes, we can split using `circleci tests split --split-by=timings --timings-type=classname scala_test_classnames`. The output is a list of test classes that should be run according to the machine numbered `CIRCLE_NODE_INDEX` out of the `CIRCLE_NODE_TOTAL` machines. `circleci` conveniently reads these two env variables automatically.
 
