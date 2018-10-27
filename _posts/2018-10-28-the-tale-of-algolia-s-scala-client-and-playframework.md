@@ -39,7 +39,7 @@ Caused by: java.net.SocketException: maximum number of DatagramSockets reached
 
 After googling for [ResourceManager](https://github.com/JetBrains/jdk8u_jdk/blob/master/src/share/classes/sun/net/ResourceManager.java#L73), it turned out that the limit to the number of datagram sockets was 25!
 
-I tested this hypothesis by running `sbt Dsun.net.maxDatagramSockets=4 `runMain TheScript'`, and the script failed after the 4st `AlgoliaClient`.
+I tested this hypothesis by running `sbt Dsun.net.maxDatagramSockets=4 'runMain TheScript'`, and the script failed after the 4st `AlgoliaClient`.
 
 Now I know that the instantiated `AlgoliaClient` wasn't cleaned up properly, so I simply needed to close it.
 
