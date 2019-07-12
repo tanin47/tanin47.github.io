@@ -4,6 +4,7 @@ show_downloads: false
 google_analytics: UA-25864968-1
 theme: jekyll-theme-cayman
 future: true
+repository: tanin47/tanin47.github.io
 
 github:
   is_project_page: false
