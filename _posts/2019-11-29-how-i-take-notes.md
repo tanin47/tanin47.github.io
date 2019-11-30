@@ -29,7 +29,7 @@ When I have free time, I would go through my notes. One by one, I would think ab
 
 *The transferred items are crossed with the red ink.*
 
-Transferring notes from its physical form to the digital form is an extremely beneficial action. It forces me to look at the notes again; this yields one more occurrence of [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition), which helps me retain important info. The solitude while reviewing notes also allows me time to reflect about what I noted.
+Transferring notes from its physical form to the digital form is an extremely beneficial action. It forces me to look at the notes again; this yields one more occurrence of [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition), which helps me retain important info. The solitude while reviewing notes also allows me time to think more deeply about what I noted.
 
 My note taking setup is rather simple. I use [a mini Rocketbook](https://www.amazon.com/Rocketbook-Everlast-Reusable-Notebook-EVR-M-K/dp/B07CZFM72V) with [a 4-color Frixion pen](https://www.amazon.com/Pilot-Frixion-Ball4-Ballpoint-LKFB-80EF-W/dp/B00IPD3KEM). With this combination, we can [reuse the notebook forever](https://youtu.be/vRHfpKj35Sk?t=260). On the digital side, I store notes in plaintext and sync to Github using my homegrown [Git Notes](https://github.com/tanin47/git-notes) app. I note the above 3 categories in bullet points: `·` (dot) for tasks, `?` (question mark) for question, and `-` (dash) for notable info. 
 
