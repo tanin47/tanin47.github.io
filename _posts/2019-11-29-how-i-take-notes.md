@@ -13,13 +13,13 @@ I carry a small physical notebook with me everywhere. There are 3 categories tha
 
 *My mini Rocketbook with 4-color Frixion pen*
 
-Noting to-do items is the most important one. When someone (especially your manager) asks you to do something, you'll never want to forget about it. Noting the deadline is as important. Write it down.
+Noting to-do items is the most important one. When someone asks me to do something, I'll never want to forget about it. Noting the deadline is as important. Write it down.
 
 Noting questions makes me more informed. If a question pops up in your mind, note it immediately. No matter how dumb the question seems. Don't even think about answering it. Just write it down.
 
 Though notable info sounds vague, I have a low threshold for it. If something surprises me or I didn't know before, I write it down.
 
-Here you might notice a theme, "just write it down". The message is to write it down without thinking. When you write down a to-do item, you don't think about what it entails. When you write down a question, you don't think about the answer. When you write down notable info, you don't label it as good, bad, or super awesome. We want to avoid developing impression prematurely. Writing it down without judgement frees my mind from worry (that I might forget them in the future) and allows me to focus on the conversation at hand.
+Here you might notice a theme, "just write it down". I write it down without thinking. When I write down a to-do item, I don't think about what it entails. When I write down a question, I don't think about the answer. When I write down notable info, I don't label it as good or bad. I want to avoid developing impression prematurely. Writing it down without judgement frees my mind from worry (that I might forget them in the future) and allows me to focus on the conversation at hand.
 
 One skill developed with this note taking process is "Suspended judgement", the ability to acknowledge without judging. It's something I'm looking forward to getting better at over time.
 
