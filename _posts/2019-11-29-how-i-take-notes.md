@@ -19,9 +19,9 @@ Noting questions makes me more informed. If a question pops up in your mind, not
 
 Though notable info sounds vague, I have a low threshold for it. If something surprises me or I didn't know before, I write it down.
 
-Here you might notice a theme, which is "just write it down". The hidden message is to write it down without thinking. When you write down a to-do item, you don't think about what it entails. When you write down a question, you don't think about the answer. When you write down notable info, you don't label it as good, bad, or super awesome. We want to avoid developing impression prematurely. Writing it down without judgement frees my mind from worry (that I might forget them in the future) and allows me to focus on the conversation at hand.
+Here you might notice a theme, "just write it down". The message is to write it down without thinking. When you write down a to-do item, you don't think about what it entails. When you write down a question, you don't think about the answer. When you write down notable info, you don't label it as good, bad, or super awesome. We want to avoid developing impression prematurely. Writing it down without judgement frees my mind from worry (that I might forget them in the future) and allows me to focus on the conversation at hand.
 
-One obscure skill developed with this note taking process is "Suspended judgement", the ability to acknowledge without judging. It's something I'm looking forward to getting better at over time.
+One skill developed with this note taking process is "Suspended judgement", the ability to acknowledge without judging. It's something I'm looking forward to getting better at over time.
 
 Later, when I have free time, I would go through my notes. One by one, I would think about it deeply, transfer the item to a digital form, and cross it out from my physical notebook. If there's an unanswered question, this would be a good time to ask these questions, maybe, through email.
 
