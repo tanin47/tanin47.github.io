@@ -5,7 +5,7 @@ date: 2019-11-29
 category: main
 ---
 
-I started taking notes in my workplace a few years back. What nudged me to start was that I occasionally forgot what my action items after a meeting; I felt forgetful. Since then, I've gone through different processes of note taking. Today, I want to share what my current process looks like.
+I started taking notes in workplace a few years back. What nudged me to start was that I occasionally forgot about my action items after a meeting; I felt forgetful. Since then, I've gone through different processes of note taking. Today, I want to share what my current process looks like.
 
 I carry a small physical notebook with me everywhere. There are 3 categories that I always note: (1) to-do items, (2) questions, and (3) notable info. Then, later on, I transfer these notes into a digital form.
 
