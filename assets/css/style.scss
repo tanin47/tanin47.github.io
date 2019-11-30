@@ -14,7 +14,6 @@
 
   > a {
     color: #fff;
-    text-decoration: none;
   }
 
   .about-me {
@@ -31,4 +30,9 @@
 
 .post {
   margin-bottom: 40px;
+
+}
+
+a {
+  text-decoration: underline;
 }
