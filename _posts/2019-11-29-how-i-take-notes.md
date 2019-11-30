@@ -37,6 +37,6 @@ Taking notes is a very personal process. What works for me might not works for y
 
 There are many more aspects that we can deepen the practice of note taking. We can extend our categories, for example, noting how others feel in a meeting and noting our minute mistakes in social interaction. We can set up a framework of thinking when transferring notes, for example, spending 10 seconds coming up with questions for a noted item.
 
-It has been a few years already since I started taking note. It makes me feel grounded. I feel more and more confident with retaining info flowing through me. It has become an essential part of my life to the point that I feel anxious when I forget to carry my notebook to a meeting. I encourage you to start taking notes, and I hope my process serves as one example that you can take and personalize to suit your style. 
+It has been a few years already since I started taking note. It makes me feel grounded. I feel more confident with retaining info flowing through me. It has become an essential part of my life to the point that I feel anxious when I don't have my notebook in a meeting. I encourage you to start taking notes, and I hope my process serves as one example that you can take and personalize to suit your style. 
 
 Happy noting!
