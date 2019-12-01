@@ -13,9 +13,9 @@ I carry a small physical notebook with me everywhere. There are 3 categories tha
 
 *My mini Rocketbook with 4-color Frixion pen. The notebook is [erasable with wet towel](https://youtu.be/vRHfpKj35Sk?t=260).*
 
-Noting to-do items is the most important action. When someone asks me to do something, I'll never want to forget about it. Noting the deadline is as important. Write it down.
+Noting to-do items is the most important action. When someone asks me to do something, I'll never want to forget about it. Noting the deadline is as important. I write it down.
 
-Noting questions makes me more informed. If a question pops up in my mind, note it immediately. No matter how dumb the question seems. Don't even think about answering it. Just write it down.
+Noting questions makes me more informed. If a question pops up in my mind, I note it immediately. No matter how dumb the question seems. Don't even think about answering it. I write it down.
 
 Though notable info sounds vague, I have a low threshold for it. If something surprises me or I didn't know about it before, I write it down.
 
@@ -29,7 +29,7 @@ When I have free time, I would go through my notes. One by one, I would think ab
 
 *The transferred items are crossed with the red ink.*
 
-Transferring notes from its physical form to the digital form is an extremely beneficial action. It forces me to look at the notes again; this yields one more occurrence of [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition), which helps me retain important info. The solitude while reviewing notes also allows me time to think more deeply about what I noted.
+Transferring notes from its physical form to the digital form is an extremely beneficial action. It forces me to review the notes; this yields one more occurrence of [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition), which helps me retain important info. The solitude while transferring notes also allows me time to think more deeply about what I noted.
 
 My note taking setup is rather simple. I use [a mini Rocketbook](https://www.amazon.com/Rocketbook-Everlast-Reusable-Notebook-EVR-M-K/dp/B07CZFM72V) with [a 4-color Frixion pen](https://www.amazon.com/Pilot-Frixion-Ball4-Ballpoint-LKFB-80EF-W/dp/B00IPD3KEM). With this combination, we can [reuse the notebook forever](https://youtu.be/vRHfpKj35Sk?t=260). I note in bullet points: `·` (dot) for tasks, `?` (question mark) for question, and `-` (dash) for notable info. On the digital side, I store notes in plaintext and sync to Github using my homegrown [Git Notes](https://github.com/tanin47/git-notes) app. 
 
