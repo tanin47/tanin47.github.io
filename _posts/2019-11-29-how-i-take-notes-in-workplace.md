@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I take notes"
+title: "How I take notes in workplace"
 date: 2019-11-29
 category: main
 ---
