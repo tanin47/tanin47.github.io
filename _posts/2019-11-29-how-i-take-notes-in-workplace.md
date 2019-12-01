@@ -5,7 +5,7 @@ date: 2019-11-29
 category: main
 ---
 
-I started taking notes in workplace a few years back. What nudged me to start was that I occasionally forgot about my action items after a meeting; I felt forgetful. Since then, I've gone through different processes of note taking. Today, I want to share what my current process looks like.
+I started taking notes in workplace a few years back. What nudged me to start was that I occasionally forgot about my action items after a meeting; I felt forgetful. Since then, I've gone through different processes of note taking, and today I want to share what my current process looks like.
 
 I carry a small physical notebook with me everywhere. There are 3 categories that I always note: (1) to-do items, (2) questions, and (3) notable info. Then, later on, I transfer these notes into a digital form.
 
@@ -19,11 +19,11 @@ Noting questions makes me more informed. If a question pops up in my mind, I not
 
 Though notable info sounds vague, I have a low threshold for it. If something surprises me or I didn't know about it before, I write it down.
 
-Here you might notice the theme, "just write it down". I write it down without thinking. When I write down a to-do item, I don't think about what it entails. When I write down a question, I don't think about the answer. When I write down notable info, I don't label it as good or bad. I want to avoid developing impression prematurely. Writing it down without judgement frees my mind from worry (that I might forget) and allows me to focus on the conversation at hand.
+Here you might notice the theme, "just write it down". I write it down without thinking. When I write down a to-do item, I don't think about what it entails. When I write down a question, I don't think about the answer. When I write down notable info, I don't label it as good or bad. I want to avoid developing impression prematurely. Writing it down without judgement frees my mind from the worry (that I might forget) and allows me to focus on the conversation at hand.
 
 One skill developed with the above process is "[Suspended judgement](https://en.wikipedia.org/wiki/Suspension_of_judgment)", the ability to acknowledge without judging. It's something I'm looking forward to getting better at over time.
 
-When I have free time, I would go through my notes. One by one, I would think about it deeply, transfer the item to a digital form, and cross it out. This is a good opportunity to spend time researching, thinking, elaborating, and figuring out unanswered questions.
+When I have free time, I would go through my notes. One by one, I would think about it deeply, transfer the item to a digital form, and cross it out. This is a good opportunity to spend time researching, thinking, and elaborating on each noted item.
 
 ![Crossed items](/assets/img/crossed2.jpg)
 
@@ -35,7 +35,7 @@ My note taking setup is rather simple. I use [a mini Rocketbook](https://www.ama
 
 Taking notes is a very personal process. What works for me might not works for you. You'll need to iterate at your own pace to figure out what you like and don't like. My general advice is to approach it casually. Don't stretch yourself too much. This is similar to practicing meditation, yoga, or anything alike. We want to deepen our practices, but we only move forward when we are comfortable. 
 
-There are many more ideas that I haven't tried yet. We can extend our categories, for example, noting how others feel in a meeting and noting our minute mistakes in social interaction. We can set up a framework of thinking when transferring notes, for example, spending 10 seconds coming up with questions for each noted item.
+There are many more ideas to try. We can extend our categories, for example, noting how others feel in a meeting and noting our minute mistakes in social interaction. We can set up a framework of thinking when transferring notes, for example, spending 10 seconds coming up with questions for each noted item.
 
 It has been a few years already since I started taking note. I feel more grounded. I feel more thoughtful. I feel more confident retaining the info flowing through me. So, I encourage you to start taking notes in workplace, and I hope my process serves as one example that you can take and personalize to suit your style. 
 
