@@ -23,7 +23,7 @@ Here you might notice the theme, "just write it down". I write it down without t
 
 One skill developed with the above process is "[Suspended judgement](https://en.wikipedia.org/wiki/Suspension_of_judgment)", the ability to acknowledge without judging. It's something I'm looking forward to getting better at over time.
 
-When I have free time, I would go through my notes. One by one, I would think about it deeply, transfer the item to a digital form, and cross it out. If there's an unanswered question, this would be a good time to ask these questions, maybe, through email.
+When I have free time, I would go through my notes. One by one, I would think about it deeply, transfer the item to a digital form, and cross it out. This is a good time to spend more time researching, thinking, elaborating, and figuring out unanswered questions.
 
 ![Crossed items](/assets/img/crossed2.jpg)
 
@@ -31,12 +31,12 @@ When I have free time, I would go through my notes. One by one, I would think ab
 
 Transferring notes from its physical form to the digital form is an extremely beneficial action. It forces me to look at the notes again; this yields one more occurrence of [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition), which helps me retain important info. The solitude while reviewing notes also allows me time to think more deeply about what I noted.
 
-My note taking setup is rather simple. I use [a mini Rocketbook](https://www.amazon.com/Rocketbook-Everlast-Reusable-Notebook-EVR-M-K/dp/B07CZFM72V) with [a 4-color Frixion pen](https://www.amazon.com/Pilot-Frixion-Ball4-Ballpoint-LKFB-80EF-W/dp/B00IPD3KEM). With this combination, we can [reuse the notebook forever](https://youtu.be/vRHfpKj35Sk?t=260). On the digital side, I store notes in plaintext and sync to Github using my homegrown [Git Notes](https://github.com/tanin47/git-notes) app. I note the above 3 categories in bullet points: `·` (dot) for tasks, `?` (question mark) for question, and `-` (dash) for notable info. 
+My note taking setup is rather simple. I use [a mini Rocketbook](https://www.amazon.com/Rocketbook-Everlast-Reusable-Notebook-EVR-M-K/dp/B07CZFM72V) with [a 4-color Frixion pen](https://www.amazon.com/Pilot-Frixion-Ball4-Ballpoint-LKFB-80EF-W/dp/B00IPD3KEM). With this combination, we can [reuse the notebook forever](https://youtu.be/vRHfpKj35Sk?t=260). I note in bullet points: `·` (dot) for tasks, `?` (question mark) for question, and `-` (dash) for notable info. On the digital side, I store notes in plaintext and sync to Github using my homegrown [Git Notes](https://github.com/tanin47/git-notes) app. 
 
-Taking notes is a very personal process. What works for me might not works for you. You'll need to iterate at your own pace to figure out what you like and don't like. My general advice is to approach it casually. Don't stretch yourself too much. You should push for more only when you are comfortable with your current level. 
+Taking notes is a very personal process. What works for me might not works for you. You'll need to iterate at your own pace to figure out what you like and don't like. My general advice is to approach it casually. Don't stretch yourself too much. This is similar to practicing meditation, yoga, or anything alike. We want to deepen our practices, but we only move forward when we are comfortable. 
 
-There are many more aspects that we can deepen the practice of note taking. We can extend our categories, for example, noting how others feel in a meeting and noting our minute mistakes in social interaction. We can set up a framework of thinking when transferring notes, for example, spending 10 seconds coming up with questions for a noted item.
+There are many more ideas that I haven't tried yet. We can extend our categories, for example, noting how others feel in a meeting and noting our minute mistakes in social interaction. We can set up a framework of thinking when transferring notes, for example, spending 10 seconds coming up with questions for each noted item.
 
-It has been a few years already since I started taking note. I feel grounded. I feel more thoughtful. I feel confident retaining info flowing through me. So, I encourage you to start taking notes, and I hope my process serves as one example that you can take and personalize to suit your style. 
+It has been a few years already since I started taking note. I feel more grounded. I feel more thoughtful. I feel more confident retaining the info flowing through me. So, I encourage you to start taking notes in workplace, and I hope my process serves as one example that you can take and personalize to suit your style. 
 
 Happy noting!
