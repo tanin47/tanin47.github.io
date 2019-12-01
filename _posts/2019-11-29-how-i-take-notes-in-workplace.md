@@ -23,7 +23,7 @@ Here you might notice the theme, "just write it down". I write it down without t
 
 One skill developed with the above process is "[Suspended judgement](https://en.wikipedia.org/wiki/Suspension_of_judgment)", the ability to acknowledge without judging. It's something I'm looking forward to getting better at over time.
 
-When I have free time, I would go through my notes. One by one, I would think about it deeply, transfer the item to a digital form, and cross it out. This is a good time to spend more time researching, thinking, elaborating, and figuring out unanswered questions.
+When I have free time, I would go through my notes. One by one, I would think about it deeply, transfer the item to a digital form, and cross it out. This is a good opportunity to spend time researching, thinking, elaborating, and figuring out unanswered questions.
 
 ![Crossed items](/assets/img/crossed2.jpg)
 
