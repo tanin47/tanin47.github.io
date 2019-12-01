@@ -35,7 +35,7 @@ My note taking setup is rather simple. I use [a mini Rocketbook](https://www.ama
 
 Taking notes is a very personal process. What works for me might not works for you. You'll need to iterate at your own pace to figure out what you like and don't like. My general advice is to approach it casually. Don't stretch yourself too much. This is similar to practicing meditation, yoga, or anything alike. We want to deepen our practices, but we only move forward when we are comfortable. 
 
-Once we have this noting-thinking loop built into our routine, enriching our note taking practice becomes much easier. You can become more considerate by noting other people's states of minds and, later, thinking how that impacts you and your work. You can become more aware of your mistakes by noting them and, later, thinking about how to avoid them next time. The possibilities are endless. 
+Once we have this noting-thinking loop built into our daily routine, enriching our note taking practice becomes much easier. We can become more considerate by noting other people's states of minds and, later, thinking how that impacts you and your work. We can become more aware of your mistakes by noting them and, later, thinking about how to avoid them next time. The possibilities are endless. 
 
 It has been a few years already since I started taking note. I feel more grounded. I feel more thoughtful. I feel more confident retaining the info flowing through me. So, I encourage you to start taking notes in workplace, and I hope my process serves as one example that you can take and personalize to suit your style. 
 
