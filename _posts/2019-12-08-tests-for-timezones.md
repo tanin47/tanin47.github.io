@@ -7,16 +7,15 @@ category: technical
 
 Even if we use a great timezone library like `tzinfo`, a bug might still happen. That's exactly what happened to me.
 
-I was building a graph whose x axis is of day frequency. Our database stored data in UTC. Since I wanted the days to be in accordance with local timezone, what I did was iterating through days in local time and converting each day to UTC time. For example:
+I was building a graph whose x axis is of day frequency. Our database stored data in UTC. Since I wanted the days to be in accordance with local timezone, what I did was iterating through days's boundaries in local time and converting each day to UTC time. For example:
 
 ```
-2019-03-08 00:00:00 America/Los_Angeles -> 2019-03-08 08:00:00 UTC
 2019-03-09 00:00:00 America/Los_Angeles -> 2019-03-09 08:00:00 UTC
-2019-03-10 00:00:00 America/Los_Angeles -> 2019-03-10 07:00:00 UTC
+2019-03-10 00:00:00 America/Los_Angeles -> 2019-03-10 08:00:00 UTC
 2019-03-11 00:00:00 America/Los_Angeles -> 2019-03-11 07:00:00 UTC
 ```
 
-That code was simple. Using a timezone library helped immensely because it handled daylight saving adjustment beautifully.
+That code was simple. Using a timezone library helped immensely. `2019-03-10` has only 23 hours, which is correct. Beautiful.
 
 Or so I thought.
 
@@ -36,7 +35,9 @@ After this bug, I've researched a bit more and have found some unique timezones 
 
 4. __Australia/Adelaide__ is a 30-minutes timezone, and their daylight saving adjustment switches the timezone between UTC+10:30 and UTC+9:30.
 
-5. __Australia/Eucla__ is a 45-minute timezone that doesn't observe daylight saving.
+5. __Australia/Eucla__ is UTC+8:45, a 45-minute timezone, that doesn't observe daylight saving.
+
+6 __Pacific/Samoa__ changed their timezones across the international dateline, so their 30 Dec 2011 doesn't exist.
 
 One small thing to note is, if you are designing a time-series database, using 15-minute bucket is necessary. As far as I know, all the timezones fit into the 15-minute bucket.
 
