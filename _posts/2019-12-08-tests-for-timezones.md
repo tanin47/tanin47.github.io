@@ -7,7 +7,7 @@ category: technical
 
 Even if we use a great timezone library like `tzinfo`, a bug might still happen. That's exactly what happened to me.
 
-I was building a graph whose x axis is of day frequency. Our database stored data in UTC. Since I wanted the days to be in accordance with local timezone, what I did was iterating through days's boundaries in local time and converting each boundary to UTC time. For example:
+I was building a graph whose x axis is of day frequency. Our database stored data in UTC. Since I wanted the days to be in accordance with local timezone, what I did was iterating through days' boundaries in local time and converting each boundary to UTC time. For example:
 
 ```
 2019-03-09 00:00:00 America/Los_Angeles -> 2019-03-09 08:00:00 UTC
