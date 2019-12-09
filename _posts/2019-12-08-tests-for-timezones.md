@@ -1,19 +1,21 @@
 ---
 layout: post
-title: "Tests for timezones"
+title: "Edgecases for timezones"
 date: 2019-12-08
 category: technical
 ---
 
 Even if we use a great timezone library like `tzinfo`, a bug might still happen. That's exactly what happened to me.
 
-I was building a graph whose x axis is of day frequency. Our database stored data in UTC. Since I wanted the days to be in accordance with local timezone, what I did was iterating through days's boundaries in local time and converting each day to UTC time. For example:
+I was building a graph whose x axis is of day frequency. Our database stored data in UTC. Since I wanted the days to be in accordance with local timezone, what I did was iterating through days's boundaries in local time and converting each boundary to UTC time. For example:
 
 ```
 2019-03-09 00:00:00 America/Los_Angeles -> 2019-03-09 08:00:00 UTC
 2019-03-10 00:00:00 America/Los_Angeles -> 2019-03-10 08:00:00 UTC
 2019-03-11 00:00:00 America/Los_Angeles -> 2019-03-11 07:00:00 UTC
 ```
+
+Then, I use the days' boundaries in UTC to query our database.
 
 That code was simple. Using a timezone library helped immensely. `2019-03-10` has only 23 hours, which is correct. Beautiful.
 
