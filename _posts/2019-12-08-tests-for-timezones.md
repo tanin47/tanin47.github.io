@@ -39,7 +39,7 @@ After this bug, I've researched a bit more and have found some unique timezones 
 
 5. __Australia/Eucla__ is UTC+8:45, a 45-minute timezone, that doesn't observe daylight saving.
 
-6 __Pacific/Samoa__ changed their timezones across the international dateline, so their 30 Dec 2011 doesn't exist.
+6. __Pacific/Samoa__ changed their timezones across the international dateline, so their 30 Dec 2011 doesn't exist.
 
 One small thing to note is, if you are designing a time-series database, using 15-minute bucket is necessary. As far as I know, all the timezones fit into the 15-minute bucket.
 
