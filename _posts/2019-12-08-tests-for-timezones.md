@@ -46,4 +46,4 @@ Another thing to remember is that the daylight saving's starting and ending date
 
 The lesson here is that, even if you use a timezone library, you still need to test against these unique timezones to make sure your code work correctly.
 
-I'm sure I'm still missing a bunch of odd cases around timezones. What's your horror story on working with timezones? What interesting timezones should we add to our tests? Share your stories on [Hacker News](https://news.ycombinator.com/item?id=21740675) or [Reddit](https://www.reddit.com/r/programming/comments/e85wo4/tests_for_timezones/).
+I'm sure I'm still missing a bunch of odd cases around timezones. What's your horror story on working with timezones? What interesting timezones should we add to our tests? Share your stories on [Reddit](https://www.reddit.com/r/programming/comments/e85wo4/tests_for_timezones/).
