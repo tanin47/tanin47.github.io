@@ -16,7 +16,10 @@ So, I've decided to build [Tip](https://github.com/tanin47/tip) to speed up thes
 
 Tip is built upon ["Services" (or "System-wide Services")](https://developer.apple.com/design/human-interface-guidelines/macos/extensions/services/), 
 which allowed one application to send a selected text to another application. 
-Therefore, Tip can only see the text when user explicitly triggers this feature by hitting the configured shortcut.
+
+With this mechanism, Tip can be used with any Mac OS app! 
+
+Tip also only see the text when user explicitly triggers this feature by hitting the configured shortcut.
 
 Tip gets the selected text, calls the user script, and renders the result in a tooltip as shown below:
 
