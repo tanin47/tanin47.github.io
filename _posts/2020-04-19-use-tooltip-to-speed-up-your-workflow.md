@@ -34,7 +34,7 @@ without requesting for additional permissions. Tip can only execute (and read-on
 Privacy-wise, this is a huge win.
 
 I've been using Tip for 3-4 months now with many use cases. Surprisingly, the use case I use most frequently is:
-selecting a file in an error stacktrace and opening that file in IntelliJ. The user script uses the text to search through local file and offers a tooltip item to open matching files on IntelliJ. It looks like below:
+selecting a file in an error stacktrace and opening that file in IntelliJ/Github. The user script uses the text to search through local file and offers a tooltip item to open matching files on IntelliJ/Github. It looks like below:
 
 ![Open file on Github from an error stacktrace line](https://media.giphy.com/media/JSYWptFElQmDJOXzXO/giphy.gif)
 
