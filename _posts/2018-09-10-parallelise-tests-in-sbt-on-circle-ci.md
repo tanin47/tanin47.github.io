@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Parallelize tests in SBT on Circle CI"
+title: "Parallelize tests in SBT on CircleCI"
+description: "Make your CI faster on CircleCI by parallelizing it with this SBT trick."
 date: 2018-09-10
 category: technical
 ---

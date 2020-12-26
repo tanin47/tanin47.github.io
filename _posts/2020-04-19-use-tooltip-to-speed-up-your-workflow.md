@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A programmable tooltip on Mac OS"
+description: "Universal Tip can save you thousands of hand movements of repetitive micro-workflows."
 date: 2020-04-19
 category: main
 ---

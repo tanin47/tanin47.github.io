@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Edgecases for timezones"
+description: "My experience working with timezones. There are a few tricky edge cases that we should be aware of."
 date: 2019-12-08
 category: technical
 ---

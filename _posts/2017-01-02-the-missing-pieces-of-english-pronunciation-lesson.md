@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The missing pieces of English pronunciation lesson"
+description: "English is a fairly difficult language to learn. Its pronunciation is even more difficult."
 date: 2017-01-02
 category: main
 redirect_from: /blogs/348/

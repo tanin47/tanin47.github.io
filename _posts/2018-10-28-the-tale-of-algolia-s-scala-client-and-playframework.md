@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The tale of Algolia's Scala client and Playframework"
+description: "Algolia's flaky DNS error that only happened in local development with Playframework."
 date: 2018-10-28
 category: technical
 ---

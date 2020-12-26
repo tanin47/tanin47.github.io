@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Parallelize tests in SBT with frustration"
+description: "SBT is a complex build tool, and parallelizing tests wasn't as straightforward as I originally thought."
 date: 2018-07-04
 category: technical
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How I take notes in workplace"
+description: "My latest iteration of taking notes in a workplace."
 date: 2019-11-29
 category: main
 ---
