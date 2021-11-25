@@ -100,6 +100,7 @@ If you are familiar with SQL, this would take less than a minute to write.
 
 ### What next?
 
+
 Since you read up until this point, I know the question that you are having now is: "ok, I'm convinced. But where can I write SQL on CSVs?".
 
 I had asked the very same question, and there are many options like:
