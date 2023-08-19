@@ -13,17 +13,16 @@ One is to build the backend code, and the other is to build the frontend code. I
 
 [sbt-svelte](https://github.com/tanin47/sbt-svelte) is offering a better and slicker way to develop with Playframework and Svelte.
 
-Playframework already has a mechanism to watch the JS code and hot-reload during `sbt run`. Playframework's asset generation, specifically `com.typesafe.sbt.web.incremental.syncIncremental((Assets / streams).value.cacheDirectory / "run", sources)`, 
+Playframework has a mechanism to watch the JS code and hot-reload during `sbt run`. Specifically, `com.typesafe.sbt.web.incremental.syncIncremental((Assets / streams).value.cacheDirectory / "run", sources)` 
 enables us to monitor all changes occurring under `/app/assets`.
 
 sbt-svelte utilizes this mechanism to monitor all `*.svelte` file changes and invoke Webpack to compile *only* those changed files.
 
 This means you just run `sbt run`, and that's it. All your Svelte changes will be compiled when you reload the page. There's no separate process to run. This works with `sbt stage` as well.
 
-The mechanism is beautiful.
+Then, you can include the JS file into your HTML file and make the component full-SPA, hybrid, or non-SPA. It's up to you.
 
-At the end of the day, what sbt-svelte does is compiling a Svelte component into a JS file. Then, you'd include the JS file into your HTML file. 
-You can make the component full-SPA, hybrid, or non-SPA. It's up to you.
+It's just so elegant.
 
 As a side note, sbt-svelte is built in the same way [sbt-vuefy](https://github.com/GIVESocialMovement/sbt-vuefy) (for Vue.js) is built. 
 sbt-vuefy has been used by [GIVE.asia](https://give.asia) for years now, so we are confident it is robust.
