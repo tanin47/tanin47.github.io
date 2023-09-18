@@ -2,22 +2,20 @@
 layout: default
 ---
 
-Hi, I'm Tanin (<a href="https://twitter.com/tanin">@tanin</a>). I'm a programmer living in Seattle. This is my main blog. If you are looking for a technical blog, please go <a href="/technical">here</a>. Enjoy!<br/><br/>
+Hi, I'm Tanin (<a href="https://twitter.com/tanin">@tanin</a>). I'm a programmer living in Seattle. I'm the author <a href="https://superintendent.app">Superintendent.app</a> and <a href="https://github.com/tanin47/tip">Universal Tip</a><br/><br/>
 
 {% for post in site.posts %}
-  {% if post.categories contains 'main' %}
-    <div class="post">
-      <h1 class="post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </h1>
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-      {{ post.excerpt }}
+    {{ post.excerpt }}
 
-      {% if post.content contains site.excerpt_separator %}
-        <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-      {% endif %}
-    </div>
-  {% endif %}
+    {% if post.content contains site.excerpt_separator %}
+      <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+    {% endif %}
+  </div>
 {% endfor %}
