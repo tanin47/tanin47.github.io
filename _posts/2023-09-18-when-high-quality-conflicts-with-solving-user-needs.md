@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When high quality conflicts with solving user needs"
-date: 2023-08-18
+date: 2023-09-18
 category: main
 ---
 
