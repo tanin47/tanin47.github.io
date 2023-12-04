@@ -3,7 +3,6 @@ layout: post
 title: "The best way to use Svelte with Playframework"
 description: "sbt-svelte integrates Svelte with Playframework's asset generation process. It's the cleanest way to use Svelte with Playframework."
 date: 2023-08-18
-category: main
 ---
 
 When building a web application on Playframework, there is no good way to integrate a JS framework like Svelte.

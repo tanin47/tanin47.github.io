@@ -3,7 +3,6 @@ layout: post
 title: "Parallelize tests in SBT on CircleCI"
 description: "Make your CI faster on CircleCI by parallelizing it with this SBT trick."
 date: 2018-09-10
-category: technical
 ---
 
 In my previous post on [parallelising tests in SBT](https://tanin.nanakorn.com/technical/2018/07/04/parallelise-tests-in-sbt.html), it doesn't work well in practice or, at least, on CircleCI. The main disadvantage is that it doesn't balance the tests by their run time. Balancing tests by their run time would reduce the total time significantly.

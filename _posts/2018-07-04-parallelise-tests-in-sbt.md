@@ -3,7 +3,6 @@ layout: post
 title: "Parallelize tests in SBT with frustration"
 description: "SBT is a complex build tool, and parallelizing tests wasn't as straightforward as I originally thought."
 date: 2018-07-04
-category: technical
 ---
 
 <a href="https://www.scala-sbt.org/">SBT</a>, the official build tool for Scala, is a very complex build tool. It's one of those things that makes me wonder if I am stupid or the tool's complexity surpasses average human intelligence.
@@ -64,4 +63,3 @@ There are 4 points shown here why SBT is so counter-intuitive to me:
 2. We can set a key in a task body, but the setting won't really do anything. We should have just made it fail compilation.
 3. There doesn't seem to be a good way to debug why a test command doesn't pick up the setting.
 4. I can't seem to understand SBT's source code. For example, I have spent some time on [this part of code](https://github.com/sbt/sbt/blob/1.x/main/src/main/scala/sbt/Defaults.scala#L706) to see which setting I should overwrite, but I couldn't understand it.
-

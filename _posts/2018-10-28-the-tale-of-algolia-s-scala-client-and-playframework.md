@@ -3,7 +3,6 @@ layout: post
 title: "The tale of Algolia's Scala client and Playframework"
 description: "Algolia's flaky DNS error that only happened in local development with Playframework."
 date: 2018-10-28
-category: technical
 ---
 
 Yesterday I've spent 5 hours debugging a strange issue when using the Algolia's Scala client with Playframework during local development. That is, the period where auto-reloading happens when code is changed.
@@ -53,5 +52,3 @@ Here are some lessons for me:
 * I should have wrote the script much earlier. Changing code 25 times was extremely tedious and time-wasting. Reproducing a bug easily would have saved me a lot of time.
 * Biased to make class's members public. It'll be helpful for future users. Scala gets it right to default everything to public, while Java defaults everything to somewhat private. Making a member private should be a conscious and thoughtful decision. If DNS name resolver wasn't public, it would be tricky for me to progress.
 * I should have not ignored the injection error during local development, no matter how flaky it is.
-
-

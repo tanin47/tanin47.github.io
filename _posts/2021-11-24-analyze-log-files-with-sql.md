@@ -3,7 +3,6 @@ layout: post
 title: "Analyze log files with SQL using Superintendent.app"
 description: "Superintendent.app allows you to load log files and write SQL on them. This post shows a couple basic examples how we analyze log files with SQL."
 date: 2021-11-24
-category: main
 ---
 
 I've launched [Superintendent.app](https://superintendent.app) 6 months ago. Initially, I built it to make me more productive at work since I work with

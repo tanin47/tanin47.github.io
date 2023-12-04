@@ -3,7 +3,6 @@ layout: post
 title: "Use SQL instead of Spreadsheet/Excel"
 description: "SQL can handle large dataset, is more ergonomic, and is faster. If you work with CSVs, you should consider using SQL."
 date: 2021-10-02
-category: main
 ---
 
 Since starting at a new company, I've been working on an accounting report that comes in the form of CSVs, so I've worked with a lot of CSVs.

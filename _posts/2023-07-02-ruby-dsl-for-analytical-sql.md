@@ -3,7 +3,6 @@ layout: post
 title: "An open-sourced Ruby DSL for composing maintainable analytical SQL statements"
 description: "The DSL supports higher order primitives like parameterization and meta-programming, which makes writing, and resuing parts of, SQL statements easier. This is suitable for an application that builds analytics on top of SQL-supported data warehouses like Presto."
 date: 2023-07-02
-category: main
 ---
 
 Repository: [https://github.com/tanin47/lilit-sql](https://github.com/tanin47/lilit-sql)

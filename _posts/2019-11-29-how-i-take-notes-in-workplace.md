@@ -3,7 +3,6 @@ layout: post
 title: "How I take notes in workplace"
 description: "My latest iteration of taking notes in a workplace."
 date: 2019-11-29
-category: main
 ---
 
 I started taking notes in workplace a few years back. What nudged me to start was that I occasionally forgot about my action items after a meeting; I felt forgetful. Since then, I've gone through different processes of note taking, and today I want to share what my current process looks like.

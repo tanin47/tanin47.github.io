@@ -3,7 +3,6 @@ layout: post
 title: "Edgecases for timezones"
 description: "My experience working with timezones. There are a few tricky edge cases that we should be aware of."
 date: 2019-12-08
-category: technical
 ---
 
 Even if we use a great timezone library like `tzinfo`, a bug might still happen. That's exactly what happened to me.
